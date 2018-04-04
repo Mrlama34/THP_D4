@@ -24,12 +24,13 @@ ul{
 
 .topdroite{
 	display: flex;
+	padding-left: 27px;
 
 	
 }
-#navbot {
+#navbot{
 	display: flex;
-	border-top: 1px solid black;
+	border-top: 1px solid grey;
 	justify-content: space-between;
 
 }
@@ -46,5 +47,18 @@ ul{
 
 footer{
 	position:absolute;
-	bottom:0;width:100%;
+	bottom:0;
+	width:100%;
+	font-size: small;
+	line-height: 40px;
+	background: #f2f2f2;
 }
+
+.botgauche{
+	padding-left: 27px;
+}
+
+.botdroite{
+	padding-left: 27px;
+}
+
