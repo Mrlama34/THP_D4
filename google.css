@@ -13,7 +13,15 @@ ul{
 	display: flex;
 	border-top: 1px solid black;
 	justify-content: space-between;
-	
 
 }
 
+.droite{
+	display: flex;
+	justify-content: flex-end;
+}
+
+.gauche{
+	display: flex;
+	justify-content: flex-start;
+}
