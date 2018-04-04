@@ -9,6 +9,17 @@ ul{
 	
 
 }
+
+
+#navtop {
+	display: flex;
+	justify-content: flex-end;
+}
+
+.topdroite{
+	display: flex;
+	justify-content: space-between;
+}
 #navbot {
 	display: flex;
 	border-top: 1px solid black;
