@@ -11,8 +11,19 @@ ul{
 	display: flex;
 	flex-direction: column;
 	align-items: center;
-	
+	align-self: center;
+	margin-top: 8%;
+}
 
+#searchbar {
+	width: 632px;
+	height: 44px;
+	margin: 25px;
+}
+
+.bouton{
+	width: 150px;
+	height: 36px;
 }
 
 
@@ -26,7 +37,7 @@ ul{
 	display: flex;
 	padding-left: 27px;
 
-	
+
 }
 #navbot{
 	display: flex;
@@ -61,4 +72,3 @@ footer{
 .botdroite{
 	padding-left: 27px;
 }
-
