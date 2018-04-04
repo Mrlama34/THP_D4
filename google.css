@@ -1,3 +1,8 @@
+body{
+	font-family: arial, sans-serif;
+}
+
+
 ul{
 	list-style-type: none;
 }
@@ -14,11 +19,13 @@ ul{
 #navtop {
 	display: flex;
 	justify-content: flex-end;
+
 }
 
 .topdroite{
 	display: flex;
-	justify-content: space-between;
+
+	
 }
 #navbot {
 	display: flex;
@@ -35,4 +42,9 @@ ul{
 .gauche{
 	display: flex;
 	justify-content: flex-start;
+}
+
+footer{
+	position:absolute;
+	bottom:0;width:100%;
 }
