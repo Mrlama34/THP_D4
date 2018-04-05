@@ -6,6 +6,12 @@ body{
 ul{
 	list-style-type: none;
 }
+#bouton3{
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	align-self: center;
+}
 
 #mainpage {
 	display: flex;
@@ -71,3 +77,4 @@ footer{
 .botdroite{
 	padding-left: 27px;
 }
+
